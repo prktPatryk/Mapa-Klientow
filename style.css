@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    height: 100svh;
+    display: grid;
+    justify-items: center;
+    align-items: center;
+}
+
+#map {
+    width: 800px;
+    height: 800px;
+}
