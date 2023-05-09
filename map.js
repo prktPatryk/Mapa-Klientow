@@ -172,7 +172,7 @@ var marker = L.marker([50.0844961, 18.0906235]).addTo(map);
 // Przedsiębiorstwo Usług Komunalnych Kaliska Sp. z o.o.
 var marker = L.marker([53.9051921, 18.2184048]).addTo(map);
 
-/* Gmina Wierzchosławice *oraz* Gordon & Great Consulting Sp. z o.o. Sp. k. */
+/* Gmina Wierzchosławice oraz Gordon & Great Consulting Sp. z o.o. Sp. k. */
 var marker = L.marker([50.0274989, 20.8593482]).addTo(map);
 
 // Miasto i Gmina Pilawa
