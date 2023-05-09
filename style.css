@@ -7,6 +7,13 @@ body {
 }
 
 #map {
-    width: 800px;
-    height: 800px;
+    width: 90%;
+    min-width: 400px;
+    height: 850px;
+
+    border: 5px solid hsl(260, 1%, 41%);
+    border-radius: 0.78rem;
+    outline: 2px solid hsl(240, 4%, 33%);
+    outline-offset: 0;
+    box-shadow: 0 0 7px black;
 }
