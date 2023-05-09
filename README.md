@@ -1,2 +1,3 @@
-# Mapa-Kilentow
-Mapa wskazująca miejscowości klientów w JavaScript z użyciem biblioteki open-source - Leaflet.
+# Mapa Kilentów
+Mapa wskazująca miejscowości klientów korzystających z opgroramowania dla PSZOK. 
+Język JavaScript i biblioteką Leaflet.
